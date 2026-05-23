@@ -1,0 +1,7 @@
+exports('GetPlayerVehicles', GetPlayerVehicles)
+exports('GetVehicleByPlate', GetVehicleByPlate)
+exports('CreateOwnedVehicle', CreateOwnedVehicle)
+exports('HasVehicleKey', HasVehicleKey)
+exports('GiveVehicleKey', GiveVehicleKey)
+exports('RemoveVehicleKey', RemoveVehicleKey)
+exports('SaveVehicleData', SaveVehicleData)

@@ -1,0 +1,4 @@
+VehicleState = {
+    spawned = {},
+    cooldowns = {}
+}
